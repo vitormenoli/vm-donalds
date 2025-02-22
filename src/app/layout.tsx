@@ -14,8 +14,8 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "VM Donalds",
-  description: "Bora finalizar esse projeto lindo!",
-};
+  description: "VM Donalds é uma aplicação que simula totens de autoatendimento para pedidos em restaurantes de fast food, inspirada em redes como McDonald's e Burger King. Desenvolvida com Next.js e Tailwind CSS, a interface foi projetada com foco em dispositivos móveis.",
+}
 
 export default function RootLayout({
   children,
